@@ -1,0 +1,4 @@
+opencv-python
+streamlit_image_select
+streamlit==1.36.0
+flask
